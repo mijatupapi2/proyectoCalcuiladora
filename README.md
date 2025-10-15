@@ -1,4 +1,4 @@
 proyecto calculadora
 
 
-animsao :   https://mijatupapi2.github.io/proyectoCalcuiladora/
+animasao :   https://mijatupapi2.github.io/proyectoCalcuiladora/
